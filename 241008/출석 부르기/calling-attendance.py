@@ -6,3 +6,5 @@ elif n is 2:
     print("Tom")
 elif n is 3:
     print("Paul")
+else:
+    print("Vacancy")
