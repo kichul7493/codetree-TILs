@@ -9,7 +9,7 @@ if n % 2 is 0:
         print(30)
 
 else:
-    if n is 9:
+    if n is 9 or n is 11:
         print(30)
     else:
         print(31)
