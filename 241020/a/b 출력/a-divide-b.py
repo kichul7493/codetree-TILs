@@ -22,8 +22,8 @@ while i < 21:
 
     result += f"{num // b}"
 
-    n = num % b
-    if n is 0:
+    m = num % b
+    if m is 0:
         isEnd = True
 
     i += 1
